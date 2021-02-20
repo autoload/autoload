@@ -8,7 +8,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-444444?style=flat-square&logo=Redis)
 ![NGINX](https://img.shields.io/badge/-NGINX-444444?style=flat-square&logo=NGINX)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
-![Yii](https://img.shields.io/badge/-Yii-444444?style=flat-square&logo=yii)
+![Yii](https://img.shields.io/badge/-Yii-444444?style=flat-square&logo=Yii)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat-square&logo=css3)
@@ -39,6 +39,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-444444?style=flat-square&logo=Jira)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat-square&logo=github)
 ![Awesome](https://img.shields.io/badge/-Awesome-444444?style=flat-square&logo=awesome-lists)
+![Raspberry](https://img.shields.io/badge/-Raspberry-444444?style=flat-square&logo=Raspberry-Pi)
+
 <!--
 **autoload/autoload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
