@@ -1,4 +1,4 @@
-## 😄 Hi! I’m David Wan, a programmer from Canada. 
+## 😄 Hi! I’m David Wan
 
 ### :sunny:  Main programming languages and tools used
 
