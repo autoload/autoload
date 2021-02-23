@@ -8,7 +8,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-444444?style=flat-square&logo=Redis)
 ![NGINX](https://img.shields.io/badge/-NGINX-444444?style=flat-square&logo=NGINX)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
-![Yii](https://img.shields.io/badge/-Yii-444444?style=flat-square&logo=Yii)
+![Yii](https://img.shields.io/badge/-Yii2-444444?style=flat-square&logo=Yii)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat-square&logo=css3)
