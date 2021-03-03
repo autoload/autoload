@@ -42,7 +42,7 @@
 ![Raspberry](https://img.shields.io/badge/-Raspberry-444444?style=flat-square&logo=Raspberry-Pi)
 
 ### Some small projects
-[hexo-theme-auto](https://github.com/autoload/hexo-theme-auto) demo:[https://autoload.github.io](https://autoload.github.io)
+[hexo-theme-auto](https://github.com/autoload/hexo-theme-auto) [demo](https://autoload.github.io)
 <!--
 **autoload/autoload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
