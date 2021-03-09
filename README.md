@@ -43,7 +43,8 @@
 
 ### Some small projects
 [hexo-theme-auto](https://github.com/autoload/hexo-theme-auto) [demo](https://autoload.github.io)
-[wantool]
+
+wantool
 <!--
 **autoload/autoload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
