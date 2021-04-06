@@ -28,7 +28,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-444444?style=flat-square&logo=Webpack)
 ![Hexo](https://img.shields.io/badge/-Hexo-444444?style=flat-square&logo=Hexo)
 ![WordPress](https://img.shields.io/badge/-WordPress-444444?style=flat-square&logo=WordPress)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?style=flat-square&logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-444444?style=flat-square&logo=Docker)
 ![JSON](https://img.shields.io/badge/-JSON-444444?style=flat-square&logo=JSON)
 ![Markdown](https://img.shields.io/badge/-Markdown-444444?style=flat-square&logo=Markdown)
